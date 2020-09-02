@@ -10,7 +10,6 @@
 
 &nbsp;
 
-&nbsp;
 ## Structure of Modules
 
 **Module 1**
@@ -21,7 +20,7 @@
 
 3. Functions, operations and methods for different data types
 
-4. Assignment
+* Assignment
 
 **Module 2**
  
@@ -32,7 +31,7 @@
    * Set
    * Dictionary
 
-2. Assignment
+* Assignment
 
 **Module 3**
  
@@ -42,7 +41,7 @@
 
 3. Working with Files
 
-4. Assignment
+* Assignment
 
 **Module 4**
 
@@ -53,8 +52,6 @@
 3. Pandas
 
 4. Matplotlib
-
-&nbsp;
 
 &nbsp;
 

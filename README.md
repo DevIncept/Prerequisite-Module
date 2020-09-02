@@ -59,10 +59,12 @@
 
 # Tasks for this module:
 
-### [1. Introduction to markdown](Part1-markdown.md)
+### [1. Python](Part1-Python.md)
 
-### [2. Introduction to Git](Part2-git.md)
+### [2. Introduction to markdown](Part1-markdown.md)
 
-### [3. Setting up environment](Part3-env.md)
+### [3. Introduction to Git](Part2-git.md)
+
+### [4. Setting up environment](Part3-env.md)
 
 

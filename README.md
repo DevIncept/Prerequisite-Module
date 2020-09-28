@@ -18,40 +18,49 @@
 
 2. Data Types  
 
-3. Functions, operations and methods for different data types
+3. Operations and methods for different data types
 
-* Assignment
+4. Conditionals
+
+5. Loops
+
+6. Data Structures
+
+   * Tuples
+   * Set
+
+* Contest
 
 **Module 2**
  
 1. Data Structures
 
    * List
-   * Tuples
-   * Set
    * Dictionary
 
-* Assignment
+2. Functions and Modules
+
+3. Objects and Classes
+
+* Contest
 
 **Module 3**
  
-1. Functions and Modules
+1. Working with Files
 
-2. Objects and Classes
+2. Introduction to Data Science
 
-3. Working with Files
+3. Numpy
 
-* Assignment
+4. Pandas(Part-1)
+
+* Contest
 
 **Module 4**
 
-1. Introduction to Data Science
+1. Pandas(Part-2)
 
-2. Numpy
-
-3. Pandas
-
-4. Matplotlib
+2. Matplotlib
 
 &nbsp;
 
@@ -61,10 +70,10 @@
 
 ### [1. Python](Part1-Python.md)
 
-### [2. Introduction to markdown](Part1-markdown.md)
+### [2. Introduction to markdown](Part2-Markdown.md)
 
-### [3. Introduction to Git](Part2-git.md)
+### [3. Introduction to Git](Part3-git.md)
 
-### [4. Setting up environment](Part3-env.md)
+### [4. Setting up environment](Part4-env.md)
 
-
+### [5. Assignment](Part5-Assignment.md)

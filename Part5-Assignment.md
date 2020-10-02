@@ -16,7 +16,7 @@ Steps for the same:
 
 5. After editing save it, and go to your main profile, you will see that readme with your profile like this one [here.](https://github.com/arpit-dwivedi)
 
-6. After completing, just comment `Assignment-Github Profile Done` on this [issue.](https://github.com/DevIncept/Prerequisite-OpenCV/issues/1)
+6. After completing, just comment `Assignment-Github Profile Done` on this [issue.](https://github.com/DevIncept/Prerequisite-Python/issues/1)
 
 &nbsp;
 

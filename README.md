@@ -74,6 +74,4 @@
 
 ### [3. Introduction to Git](Part3-git.md)
 
-### [4. Setting up environment](Part4-env.md)
-
-### [5. Assignment](Part5-Assignment.md)
+### [4. Assignment](Part5-Assignment.md)

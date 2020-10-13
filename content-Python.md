@@ -10,7 +10,7 @@
 
 # Module 1
 
-> 1 Competetion, 1 Quiz 
+> 1 Competetion
 
 1. [Part1: Introduction to Python](https://github.com/DevIncept/Python-Module-1/blob/master/Part1-Python-basics.md)
 2. [Part1: Introduction to Python Notebook](https://github.com/DevIncept/Python-Module-1/blob/master/Part1-Python-Basics.ipynb)
@@ -32,22 +32,25 @@
 
 # Module 2
 
-> 1 Competetion, 1 Quiz 
+> 1 Competetion
 
-1. [Part1: Lists](Part1-Lists.md)
-2. [Part1: Lists Notebook](Part1-List.ipynb)
-3. [Part2: Dictionary](Part1-dictionary.md)
-4. [Part2: Dictionary Notebook](Part1-dictionary.ipynb)
-5. [Quiz-Data Structures](Part2-quiz-data-structures.md)
-6. [Part3: Functions in Python](Part3-functions.md)
-7. [Part3: Functions in Python Notebook](Part3-functions.ipynb)
-8. [Part4: Modules in Python](Part4-moduless.md)
-9. [Part4: Modules in Python Notebook](Part4-modules.ipynb)
-10. [Part5: Class and Objects in Python](Part5-class.md)
-11. [Part5: Class and Objects in python Notebook](Part5-class.ipynb)
-12. [Part6: Working with files in python](Part7-file-handling.md)
-13. [Part6: Working with files in python notebook](Part7-file-handling.ipynb)
-14. [Competition-Python 2](Part8-competition-python-2.md)
+1. [Part1: Lists](https://github.com/DevIncept/Python-Module-2/blob/master/Part1-List.md)
+2. [Part1: Lists Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part1-List.ipynb)
+3. [Part2: Dictionary](https://github.com/DevIncept/Python-Module-2/blob/master/Part2-Dictionary.md)
+4. [Part2: Dictionary Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part2-Dictionary.ipynb)
+5. [Part3: Jupyter Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part3-Jupyter-Notebook.md)
+6. [Part4: Functions in Python](https://github.com/DevIncept/Python-Module-2/blob/master/Part4-Functions.md)
+7. [Part4: Functions in Python Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part4-Functions.ipynb)
+8. [Part5: Modules in Python](https://github.com/DevIncept/Python-Module-2/blob/master/Part5-Modules.md)
+9. [Part6: Class and Objects in Python](https://github.com/DevIncept/Python-Module-2/blob/master/Part6-Class-and-Object.md)
+10. [Part6: Class and Objects in python Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part6-Class-and-Object.ipynb)
+11. [Part7: OOPS in Python](https://github.com/DevIncept/Python-Module-2/blob/master/Part7-OOPS.md)
+12. [Part7: OOPS in Python Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part7-OOPS.ipynb)
+13. [Part8: Error and Exception Handling in Python](https://github.com/DevIncept/Python-Module-2/blob/master/Part8-Error-and-Exception-Handling.md)
+14. [Part8: Error and Exception Handling in Python Notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part8-Error-and-Exception-Handling.ipynb)
+15. [Part6: Working with files in python](https://github.com/DevIncept/Python-Module-2/blob/master/Part9-File-Handling.md)
+16. [Part6: Working with files in python notebook](https://github.com/DevIncept/Python-Module-2/blob/master/Part9-File-Handling.ipynb)
+17. [Competition-Python 2](https://github.com/DevIncept/Python-Module-2/blob/master/Competition-Python-2.md)
 
 # Module 3
 

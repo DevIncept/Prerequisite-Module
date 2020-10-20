@@ -56,19 +56,18 @@
 
 > 1 Competetion, 2 Projects 
 
-1. [Part1: Introduction to Data Science](Part1-data-science.md)
-2. [Part2: Numpy basics](Part2-numpy.md)
-3. [Part2: Numpy basics notebook](Part2-numpy.ipynb)
-4. [Part3: Data manipulation using Numpy notebook](Part3-data-manipulation-numpy.ipynb)
-5. [Part4: Mini project-Numpy](Part4-mini-numpy.md)
-6. [Part5: Introduction to Pandas](Part5-intro-pandas.md)
-7. [Part6: Pandas series](Part6-pandas-series.md)
-8. [Part6: Pandas series notebook](Part6-pandas-sereis.ipynb)
-9. [Part7: Pandas Dataframe](Part7-pandas-dataframe.md)
-10. [Part7: Pandas Dataframe notebook](Part7-pandas-dataframe.ipynb)
-11. [Part8: Data Manipulation usning pandas](Part8-data-manipulation-pandas.ipynb)
-12. [Part9: Mini project-Pandas](Part9-mini-pandas.md)
-13. [Part10: Competition-Numpy&Pandas](Part10-Competition-numpy&pandas.md)
+1. [Part1: Introduction to Data Science](https://github.com/DevIncept/Python-Module-3/blob/main/Part1-Data-Science.md)
+2. [Part2: Numpy Introduction](https://github.com/DevIncept/Python-Module-3/blob/main/Part2-Numpy-Introduction.md)
+3. [Part3: Numpy Arrays](https://github.com/DevIncept/Python-Module-3/blob/main/Part3-Numpy-Arrays.md)
+4. [Part3: Numpy Arrays Notebook](https://github.com/DevIncept/Python-Module-3/blob/main/Part3-Numpy-Arrays.ipynb)
+5. [Part4: Numpy Functions](https://github.com/DevIncept/Python-Module-3/blob/main/Part4-Numpy-Functions.md)
+6. [Part4: Numpy Functions Notebook](https://github.com/DevIncept/Python-Module-3/blob/main/Part4-Numpy-Functions.ipynb)
+7. [Part5: Introduction to Pandas](https://github.com/DevIncept/Python-Module-3/blob/main/Part5-Pandas-Introduction.md)
+8. [Part6: Pandas Series](https://github.com/DevIncept/Python-Module-3/blob/main/Part6-Pandas-Series.md)
+9. [Part6: Pandas Series Notebook](https://github.com/DevIncept/Python-Module-3/blob/main/Part6-Pandas-Series.ipynb)
+10. [Part7: Pandas Dataframe](https://github.com/DevIncept/Python-Module-3/blob/main/Part7-Pandas-Dataframe.md)
+11. [Part7: Pandas Dataframe Notebook](https://github.com/DevIncept/Python-Module-3/blob/main/Part7-Pandas-Dataframe.ipynb)
+12. [Competition-Numpy and Pandas](https://github.com/DevIncept/Python-Module-3/blob/main/Competition-Numpy-and-Pandas.md)
 
 # Module 4
 

@@ -54,7 +54,7 @@
 
 # Module 3
 
-> 1 Competetion, 2 Projects 
+> 2 Assignments
 
 1. [Part1: Introduction to Data Science](https://github.com/DevIncept/Python-Module-3/blob/main/Part1-Data-Science.md)
 2. [Part2: Numpy Introduction](https://github.com/DevIncept/Python-Module-3/blob/main/Part2-Numpy-Introduction.md)
@@ -71,14 +71,22 @@
 
 # Module 4
 
-> 1 Competetion(Portfolio), 1 Project
+> 1 Assignment
 
-1. [Part1: Matplotlib and types of plots](Part1-matplotlib.md)
-2. [Part1: Types of plots notebook 1](Part1-plots1.ipynb)
-3. [Part1: Types of plots notebook 2](Part1-plots2.ipynb)
-4. [Part2: Data visualisation with Numpy, Pandas and matplotlib](Part2-data-visualisation.md)
-5. [Part2: Data visualisation with Numpy, Pandas and matplotlib notebook](Part2-data-visualisation.ipynb)
-6. [Part3: Mini project-Numpy, Pandas and matplotlib](Part3-mini-matplotlib.md)
+1. [Part1: Pandas Functions](https://github.com/DevIncept/Python-Module-4/blob/main/Part1-Pandas-Functions.md)
+2. [Part1: Pandas Functions Notebook](https://github.com/DevIncept/Python-Module-4/blob/main/Part1-Pandas-Functions.ipynb)
+3. [Part2: Data Visualisation](https://github.com/DevIncept/Python-Module-4/blob/main/Part2-Data-Visualisation.md)
+4. [Part2: Data Visualisation Notebook](https://github.com/DevIncept/Python-Module-4/blob/main/Part2-Data-Visualization.ipynb)
+5. [Part3: Matplotlib-Introduction](https://github.com/DevIncept/Python-Module-4/blob/main/Part3-Matplotlib-Introduction.md)
+6. [Part3: Matplotlib-Introduction Notebook](https://github.com/DevIncept/Python-Module-4/blob/main/Part3-Matplotlib-Introduction.ipynb)
+7. [Part4: Types of Plots 1](https://github.com/DevIncept/Python-Module-4/blob/main/Part4-Types-of-Plots-1.md)
+8. [Part4: Types of Plots 1 Notebook](https://github.com/DevIncept/Python-Module-4/blob/main/Part4-Types-of-Plots-1.ipynb)
+9. [Part5: Types of Plots 2](https://github.com/DevIncept/Python-Module-4/blob/main/Part5-Types-of-Plots-2.md)
+10. [Part5: Types of Plots 2 Notebook](https://github.com/DevIncept/Python-Module-4/blob/main/Part5-Types-of-Plots-2.ipynb)
+11. [Part6: Types of Plots 3](https://github.com/DevIncept/Python-Module-4/blob/main/Part6-Types-of-Plots-3.md)
+12. [Part6: Types of Plots 3 Notebook](https://github.com/DevIncept/Python-Module-4/blob/main/Part6-Types-of-Plots-3.ipynb)
+13. [Assignment- Matplotlib](https://github.com/DevIncept/Python-Module-4/blob/main/Assignment-Matplotlib.md)
+
 
 >Last stage
 1. [Part4: Summing it all up](Part4-final.md)

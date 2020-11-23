@@ -10,7 +10,7 @@
 
 &nbsp;
 
-#### [Tasks for this module](https://github.com/DevIncept/Prerequisite-Python#tasks-for-this-module)
+#### [Complete these tasks for this module](https://github.com/DevIncept/Prerequisite-Python#tasks-for-this-module)
 
 &nbsp;
 

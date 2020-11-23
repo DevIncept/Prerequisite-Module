@@ -10,6 +10,11 @@
 
 &nbsp;
 
+#### [Tasks for this module](https://github.com/DevIncept/Prerequisite-Python#tasks-for-this-module)
+
+&nbsp;
+
+&nbsp;
 ## Structure of Modules
 
 **Module 1**

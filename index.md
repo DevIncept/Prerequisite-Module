@@ -4,9 +4,7 @@
 
 
 
-
-
-## [Complete these tasks for prerequisites module](#tasks-for-this-module)
+## Complete these tasks for prerequisites module:
 
 
 

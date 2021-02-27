@@ -6,12 +6,8 @@
 
 
 
-#### [Complete these tasks for prerequisites module](#tasks-for-this-module)
+## [Complete these tasks for prerequisites module](#tasks-for-this-module)
 
-
-
-
-# Tasks for this module:
 
 
 ### [1. Introduction to markdown](Markdown.md)

@@ -4,22 +4,20 @@
 
 
 
-&nbsp;
 
 
 #### [Complete these tasks for prerequisites module](#tasks-for-this-module)
 
 
 
-&nbsp;
-
-&nbsp;
 
 # Tasks for this module:
 
 
-### [2. Introduction to markdown](Part2-Markdown.md)
+### [1. Introduction to markdown](Markdown.md)
 
-### [3. Introduction to Git](Part3-git.md)
+### [2. Introduction to Git](git.md)
 
-### [4. Assignment](Part5-Assignment.md)
+### [3. Assignment](Assignment.md)
+
+### [4. Assignment](Quiz.md)

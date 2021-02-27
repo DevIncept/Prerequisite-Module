@@ -13,4 +13,7 @@
 
 ### [3. Assignment](Assignment.md)
 
-### [4. Quiz](Quiz.md)
+### 4. Quiz 
+
+> Quiz form will be shared on Slack workspace.
+

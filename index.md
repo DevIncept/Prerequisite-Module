@@ -14,4 +14,4 @@
 
 ### [3. Assignment](Assignment.md)
 
-### [4. Assignment](Quiz.md)
+### [4. Quiz](Quiz.md)

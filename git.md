@@ -45,7 +45,7 @@ On Windows, it’s just as simple. You [download the installer](https://git-scm.
 ## Git Internals 
 
 
-![shortcut](extras/Git.png)
+![shortcut](https://github.com/DevIncept/Prerequisite-Module/blob/master/extras/Git.png)
 
 The picture above shows you the basic commands to move your files into different
 trees in your repository.
@@ -54,11 +54,11 @@ trees in your repository.
 This helps to use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistently. Git offers a lot of flexibility in how users manage changes.
 Below image explains in brief the git workflow.
 
-![shortcut](extras/gitwork.png)
+![shortcut](https://github.com/DevIncept/Prerequisite-Module/blob/master/extras/gitwork.png)
 
 ## Git commands 
 
-![shortcut](extras/gitcom.png)
+![shortcut](https://github.com/DevIncept/Prerequisite-Module/blob/master/extras/gitcom.png)
 
 <hr>
 

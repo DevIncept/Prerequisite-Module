@@ -60,7 +60,7 @@ Below image explains in brief the git workflow.
 
 ## Git commands 
 
-<img src= "https://github.com/DevIncept/Prerequisite-Module/blob/master/extras/gitcom.png" >
+![img](extras/gitcom.png)
 
 <hr>
 

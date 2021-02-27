@@ -9,7 +9,7 @@
 
 ### [1. Introduction to Git](git.md)
 
-### [2. Introduction to markdown](https://github.com/DevIncept/Prerequisite-Module/blob/master/Markdown.md){target="_blank"}
+### <a href="https://github.com/DevIncept/Prerequisite-Module/blob/master/Markdown.md" target="_blank">2. Introduction to markdown<a>
 
 ### [3. Assignment](Assignment.md)
 

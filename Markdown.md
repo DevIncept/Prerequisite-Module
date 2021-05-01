@@ -123,7 +123,7 @@ Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
 
 ```md
 
-[Devincept Website](https://devincept.tech/)
+[DevIncept Website](https://devincept.tech/)
 
 ![DevIncept logo image](extras/logo.gif)
 
@@ -133,7 +133,7 @@ Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
 
 **<ins>Output:</ins>**
 
-[Devincept Website](https://devincept.tech/)
+[DevIncept Website](https://devincept.tech/)
 
 ![DevIncept logo image](extras/logo.gif)
 
@@ -215,7 +215,7 @@ Till now we got to know some important
 
 We have seen the basic features of markdown till now, but superpower of markdown is, You can directly use HTML in it.
 
-> Somw times it becomes a little difficult to do some complex thigs in markdown, so using HTML that time can make it work.
+> Sometimes it becomes a little difficult to do some complex thigs in markdown, so using HTML that time can make it work.
 
 **<ins>Input:</ins>**
 

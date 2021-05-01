@@ -23,4 +23,4 @@ Steps for the same:
 
 Thanks for Reading!!!
 
-Go back to [Prerequisite-Python](https://github.com/DevIncept/Prerequisite-Python)
+Go back to [Prerequisite-Python](https://devincept.tech/Prerequisite-Module/)
